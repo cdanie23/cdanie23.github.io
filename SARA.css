@@ -39,7 +39,7 @@ body {
 	font-size: 40px;
 }
 .VideocontainerNav {
-	float:left;
+	float: left;
 	height:100%;
 	width: 15%;
 	
@@ -182,7 +182,7 @@ h3 {
 	position: relative;
 	font-family: Times-New-Roman;
 	padding-left: 375px;
-	overflow; hidden;
+	
 }
 #navBar  a {
 	float: left;
@@ -374,7 +374,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 label[for=date] {
 	display: block;
 	margin: auto;
-	icon
+	
 }
 input[type=tel] {
 	background-color: #001B48;
