@@ -20,7 +20,11 @@ body {
 	height: 750px;
 	width: 100%;
 	background-image: url(homehero.jpg);
+<<<<<<< Updated upstream
 	background-size: 50% 750px;
+=======
+	background-size: 50% 550px;
+>>>>>>> Stashed changes
 }
 
 .video-container video {
@@ -182,7 +186,11 @@ h3 {
 	position: relative;
 	font-family: Times-New-Roman;
 	padding-left: 375px;
+<<<<<<< Updated upstream
 	
+=======
+	overflow; hidden;
+>>>>>>> Stashed changes
 }
 #navBar  a {
 	float: left;
@@ -374,7 +382,11 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 label[for=date] {
 	display: block;
 	margin: auto;
+<<<<<<< Updated upstream
 	
+=======
+	icon
+>>>>>>> Stashed changes
 }
 input[type=tel] {
 	background-color: #001B48;
